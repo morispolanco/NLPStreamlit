@@ -1,8 +1,6 @@
 #Necessary imports
 import streamlit as st
 import pandas as pd
-from textblob import TextBlob
-from nltk.tokenize import sent_tokenize
 from gensim.summarization.summarizer import summarize 
 from gensim.summarization import keywords
 import spacy
