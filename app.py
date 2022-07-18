@@ -1,8 +1,7 @@
 #Necessary imports
+import nlpcloud
 import streamlit as st
 import pandas as pd
-from gensim.summarization.summarizer import summarize 
-from gensim.summarization import keywords
 import spacy
 from spacy import displacy
 from collections import Counter
