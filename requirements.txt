@@ -1,3 +1,0 @@
-nlpcloud
-spacy
-En Core Web Sm
